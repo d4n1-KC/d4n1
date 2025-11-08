@@ -1,0 +1,96 @@
+# ==========================
+# macOS System Files
+# ==========================
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# ==========================
+# Editor & IDE Files
+# ==========================
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.iml
+
+# ==========================
+# Python & Virtual Environments
+# ==========================
+__pycache__/
+*.py[cod]
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ==========================
+# Logs & Temp Files
+# ==========================
+*.log
+*.tmp
+*.bak
+*.old
+*.orig
+
+# ==========================
+# OSINT / Security Tools Output
+# ==========================
+*.pcap
+*.pcapng
+*.dump
+*.report
+*.json
+*.xml
+*.csv
+*.sqlite
+*.db
+
+# ==========================
+# Archives
+# ==========================
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# ==========================
+# Miscellaneous
+# ==========================
+.env
+*.pid
+*.seed
+*.pid.lock
+*.key
+*.crt
+*.pem
+*.der
+*.enc
+*.cfg
+*.config
+*.backup
